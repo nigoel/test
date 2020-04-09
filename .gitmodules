@@ -1,3 +1,6 @@
 [submodule "listing1"]
 	path = listing1
 	url = https://github.com/nigoel/datasciencecoursera
+[submodule "listing2"]
+	path = listing2
+	url = https://github.com/nigoel/test2public.git
